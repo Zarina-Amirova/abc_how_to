@@ -37,4 +37,4 @@ git push origin main
 ## Ссылки
 [Документация Git](https://git-scm.com/doc "Забавное название, говоря гит - волей не волей чувствуешь себя школьником, творящим мелкую пакость")  
 [Руководство Git]( https://docs.github.com/en)  
-[Markdown](https://gist.github.com/fomvasss/8dd8cd7f88c67a4e3727f9d39224a84c"Очень крутая шпаргалка на русском")
+[Markdown](https://gist.github.com/fomvasss/8dd8cd7f88c67a4e3727f9d39224a84c "Очень крутая шпаргалка на русском")
