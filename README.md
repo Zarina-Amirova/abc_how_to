@@ -12,20 +12,20 @@
 ----
 
 ## Установка Git и создание SSH-ключа
-###SSH-ключ  
+### SSH-ключ  
 Можно создать в любом месте, потом копируем публичный (id_rsa.pub) и добавляем его в настроках GitHub.
 ```bash
 ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
 ```
 
-###Клонирование репозитория или настройка существующего
+### Клонирование репозитория или настройка существующего
 ```bash
 cd /d/your_project_directory
 git clone git@github.com:your_username/your_repository.git
 cd your_repository
 ```
 
-###Работа с репозиторием 
+### Работа с репозиторием 
 Важно! Не забывай делать коммиты, для этого 
 ```bash
 git add .
@@ -35,6 +35,6 @@ git push origin main
 ----
 
 ## Ссылки
-[Документация Git](https://git-scm.com/doc "Забавное название, говоря гит - волей не волей чувствуешь себя школьником, творящим мелкую пакость")
-[Руководство Git]( https://docs.github.com/en)
+[Документация Git](https://git-scm.com/doc "Забавное название, говоря гит - волей не волей чувствуешь себя школьником, творящим мелкую пакость")  
+[Руководство Git]( https://docs.github.com/en)  
 [Markdown](https://gist.github.com/fomvasss/8dd8cd7f88c67a4e3727f9d39224a84c"Очень крутая шпаргалка на русском")
